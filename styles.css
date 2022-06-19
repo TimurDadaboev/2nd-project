@@ -129,12 +129,12 @@ text-decoration: none;
 .top-cloud {
   position: absolute;
   top: 50px;
-  right: 550px;
+  right: 400px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 525px;
+  left: 400px;
   bottom: 300px;
 }
 
